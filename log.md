@@ -19,6 +19,6 @@
 **Thoughts:** Getting more familiar with css quirks ;-)
 
 **Link to work:** [Portfolio page](https://pedja77.github.io/FCCPortfolio/)
-**Link to GitHub repo:**[Portfolio repo](https://github.com/pedja77/FCCPortfoli$
+**Link to GitHub repo:**[Portfolio repo](https://github.com/pedja77/FCCPortfolio)$
 
 
