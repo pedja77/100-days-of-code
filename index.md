@@ -21,3 +21,5 @@ skeleton and started work on responsive navigation bar.
 
 **Link to work:** [Portfolio page](https://pedja77.github.io/FCCPortfolio/)
 **Link to GitHub repo:**[Portfolio repo](https://github.com/pedja77/FCCPortfolio)
+
+**Extra:** Solved 3 elementary java script missions on [ckeckio](https://js.checkio.org).
