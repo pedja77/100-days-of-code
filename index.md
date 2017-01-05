@@ -23,3 +23,14 @@ skeleton and started work on responsive navigation bar.
 **Link to GitHub repo:**[Portfolio repo](https://github.com/pedja77/FCCPortfolio)
 
 **Extra:** Solved 3 elementary java script missions on [ckeckio](https://js.checkio.org).
+
+
+### Day 3: January 5th, 2017
+
+**Today's Progress**: Get stuck with portfolio project. Solved several JavaScript
+tasks on [checkio](https://js.checkio.org). Did some research for FCC RandomQuoteMachine
+and tested some JS snippets, just to get feel of what it will be like.
+
+**Thoughts:** CSS damn you!!!:scream. After second branching, considering the third,
+possible will leave ambition to write vanilla css (for now) and roll back to Bootstrap.
+Just to make my life easier for a while.
