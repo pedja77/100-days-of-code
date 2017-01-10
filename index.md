@@ -48,3 +48,15 @@ for having some social life :smirk: .
 
 **Link to work:** [Portfolio page](https://pedja77.github.io/FCCRandomQuoteMachine/)
 **Link to GitHub repo:**[Portfolio repo](https://github.com/pedja77/FCCRandomQuoteMachine)
+
+
+### Day 5 & 6: January 9th & 10th, 2017
+
+**Today's Progress:** Almost done with Random Quote Machine. I call it Random Fortune
+Generator. I made it as possible as I can to mimic unix fortune program for terminal.
+Last two days were spent on implementing console like behavior and small set of
+"terminal" commands.
+**Thoughts:** Feel fabulous.
+
+**Link to work:** [Portfolio page](https://pedja77.github.io/FCCRandomQuoteMachine/)
+**Link to GitHub repo:**[Portfolio repo](https://github.com/pedja77/FCCRandomQuoteMachine)
